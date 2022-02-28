@@ -1,0 +1,182 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A new discoverie of Mr. Jermyns conspiracy. Being the coppie of a letter sent from France from the said Mr. Iermyn, to a nobleman in the North. With divers other passages from Yorke. Published by a true copie.</title>
+            <author>St. Albans, Henry Jermyn, Earl of, ca. 1604-1684.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89969</idno>
+            <idno type="STC">Wing N626</idno>
+            <idno type="STC">Thomason E107_35</idno>
+            <idno type="STC">ESTC R2187</idno>
+            <idno type="EEBO-CITATION">99871527</idno>
+            <idno type="PROQUEST">99871527</idno>
+            <idno type="VID">123938</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89969)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 123938)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 19:E107[35])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A new discoverie of Mr. Jermyns conspiracy. Being the coppie of a letter sent from France from the said Mr. Iermyn, to a nobleman in the North. With divers other passages from Yorke. Published by a true copie.</title>
+                  <author>St. Albans, Henry Jermyn, Earl of, ca. 1604-1684.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T.F. for D.C.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Iuly 21. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>St. Albans, Henry Jermyn, --  Earl of, ca. 1604-1684.</term>
+               <term>Great Britain --  Politcs and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:123938:1" rendition="simple:additions"/>
+            <p>A New Diſcoverie of Mr. <hi>JERMYNS</hi> CONSPIRACY.</p>
+            <p>Being the Coppie of a Letter ſent from <hi>France</hi> from the ſaid Mr. <hi>Iermyn,</hi> to a Nobleman in the North.</p>
+            <p>
+               <hi>With divers other Paſſages from</hi> Yorke.</p>
+            <p>Publiſhed by a true Copie.</p>
+            <figure>
+               <figDesc>printers device</figDesc>
+            </figure>
+            <p>
+               <hi>London,</hi> Printed by <hi>T. F.</hi> for <hi>D C. Iuly,</hi> 21. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:123938:2"/>
+            <pb n="1" facs="tcp:123938:2"/>
+            <head>The Copie of a Letter ſent from Mr. <hi>Henry Iermyn,</hi> to a Nobleman in the North, which ſhowes you how buſie the malignant party are in their plots and Stratagems.</head>
+            <opener>
+               <salute>My moſt Honoured Lord,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">H</seg>Aving the honour of an invi<g ref="char:EOLhyphen"/>tation by Madam <hi>De<g ref="char:punc">▪</g> Tillet<g ref="char:punc">▪</g>
+               </hi> to her Houſe of <hi>Bejeare,</hi> upon the way we met very happi<g ref="char:EOLhyphen"/>ly the Poſt, I call it my hap<g ref="char:EOLhyphen"/>pines becauſe elſe I could not have anſwered your Lordſhips deſires ſo inſtantly as they urged. and it met in ſuch an opportunity, as my wiſhes could not have made more
+<pb n="2" facs="tcp:123938:3"/> fortunate, for the Night before I had recei<g ref="char:EOLhyphen"/>ved Letters from the Lord <hi>Finch,</hi> which enabled me more fully to your Commands, though I ſhall but returne my Service in your Lordſhips owne Language, but it pleaſed the Duke when we compared our Letters, to be very merry with that paſſage where your Lordſhip ſayes, that you veri<g ref="char:EOLhyphen"/>ly beleeve, that the Parliament will keepe their words againſt their wills, and make the King more glorious and rich then any of his Predeceſsors, let me aſsure you his caſe is ſpread through the Chriſtian world, yet in no place is more ſenſibly taken no<g ref="char:EOLhyphen"/>tice of then in <hi>France,</hi> and I hope ere long you ſhall find the effects<g ref="char:punc">▪</g> of it<g ref="char:punc">▪</g> which had ſhewed themſelves ere this, had not ſome buſie accidents in <hi>Flanders,</hi> deterr'd the Kings deſires, but there is in hand a pre<g ref="char:EOLhyphen"/>paration of nineteene Ships, with ſuch A<g ref="char:EOLhyphen"/>munition and ſupply, as the greatneſse of his occaſions at home can ſpare, I have ſo conjured with Mounſieur <hi>Du Haile</hi> and his wife, that you ſhall be aſsured to have
+<pb n="3" facs="tcp:123938:3"/> the Bill of exchange for 4000 pounds by a Dutchman, from whome in the interim you ſhall receive more particular informa<g ref="char:EOLhyphen"/>tion, and I have dealt as privately as might be, becauſe that you deſired the Jewels ſhould not be taken no<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ice of, and before I ſeald this to your Lordſhip, I ſent my ſervant away ſecretly to the <hi>Hague,</hi> whe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e <hi>Van-Derling</hi> the Engineere now is, and I am in good hope my Lord, o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r Propoſti<g ref="char:EOLhyphen"/>ons will faſten.</p>
+            <p>I dare not write your Lordſhip our hopes and wiſhes by this returne, but I in<g ref="char:EOLhyphen"/>tend to be more large by a Lacky, that ſhall make ſhift to ſee you ere long, be plea<g ref="char:EOLhyphen"/>ſed Sir not to forget me, where my Life and Dutie is due, and let this aſsure your Lord<g ref="char:EOLhyphen"/>ſhip, with what zeale I kiſse your moſt honoured hands, and ſubſcribe my ſelfe,</p>
+            <closer>
+               <signed>Your moſt affectionate and humbleſt Servant. <hi>Henry Iermyne.</hi>
+               </signed>
+               <dateline>Bejeare, <date>Iuly, 12. 1642.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="account_of_current_events">
+            <pb facs="tcp:123938:4"/>
+            <head>Severall Matters of importance be<g ref="char:EOLhyphen"/>ing the moſt remarkeable paſſages that happened lately at <hi>Yorke.</hi>
+            </head>
+            <p>THere is dayly preparations in the North for ſome ſuddaine Deſigne againſt <hi>Hull,</hi> for there is an excel<g ref="char:EOLhyphen"/>lent Engineere lately come, who hath caſt Workes and Trenches againſt the flowing in of any Spring Tydes, and ſomething will be done ſuddenly, and if <hi>Hull</hi> miſse ſupply, it may goe very hard, becauſe a great part of the Towne (tis thought) would ſtart, if they could find an occaſion.</p>
+            <p>The Souldiery on this ſide are very for<g ref="char:EOLhyphen"/>ward, and confident, and in their fancies have ſhared <hi>Hull</hi> already, quartered them<g ref="char:EOLhyphen"/>ſelves, and diſpoſed of mens Wives and Houſes, as in their mirth they doe of <hi>Lon<g ref="char:EOLhyphen"/>don.</hi>
+            </p>
+            <pb n="5" facs="tcp:123938:4"/>
+            <p>The County of <hi>Lincolne,</hi> ſeem<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d to receive his Majeſty with a cheerefull Face, and the City preſented him by the Major, with a rich Cup, the Commiſſion of Array ſtands there at a ſtrong poſture, and however your penny Newes at <hi>London</hi> is ſcattered, the Kings power is not at ſuch a caſe as they informe you, but like the Prophets Cloud, enlarges every day.</p>
+            <p>There is come Ships from the Earle of <hi>Warwicke,</hi> to the reliefe of <hi>Hull,</hi> and cer<g ref="char:EOLhyphen"/>taine Captaines diſcharg'd by him, are come to the King, and his Majeſty diſ<g ref="char:EOLhyphen"/>patcht a Meſſenger to the Earle, to com<g ref="char:EOLhyphen"/>mand him to ſend the Ship called the <hi>Lion,</hi> which he tooke, but he returned with the Earles deniall.</p>
+            <p>Moſt of the People who had their dwel<g ref="char:EOLhyphen"/>lings drowned by the Tydes, are come to this ſide.</p>
+            <p>In <hi>Berkeſhire</hi> tis reported there is great combuſtion about the Commiſſion of Aray, a great part being for the King.</p>
+            <p>Here came in this afternoone two Wag<g ref="char:EOLhyphen"/>gons
+<pb n="6" facs="tcp:123938:5"/> laden with good Money, which made the Cavaleers ſmile<g ref="char:punc">▪</g>
+            </p>
+            <p>Sir <hi>John Hothams</hi> Sonne they ſay in a Skirmiſh with ten Cavaleers, about a Horſe taken from him<g ref="char:punc">▪</g> received a hurt<g ref="char:punc">▪</g> in the Arme.</p>
+            <p>Vpon, Sunday a ſupply of Hors;e came from <hi>Yorke,</hi> the Prince led them very gal<g ref="char:EOLhyphen"/>lantly, and the Lord of <hi>Lindſey</hi> brought a<g ref="char:EOLhyphen"/>nother ſupply uppon Munday<g ref="char:punc">▪</g>
+            </p>
+            <p>There is 4 Regiments deſigned for <hi>Lan<g ref="char:EOLhyphen"/>caſhire</hi> as they ſay, upon ſome newes that arrived this night<g ref="char:punc">▪</g>
+            </p>
+            <p>The Country is not, ſo, drowned as your Londoners beleeve<g ref="char:punc">▪</g> for the other ſide of <hi>Hull</hi> is made very ſtrong with Ordnance<g ref="char:punc">▪</g> and ſo is all the Shore to <hi>Lincolnſhire.</hi>
+            </p>
+            <p>The laſt newes is, that three luſty Colli<g ref="char:EOLhyphen"/>ers hath brought Ammunition and provi<g ref="char:EOLhyphen"/>ſion to the King.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
